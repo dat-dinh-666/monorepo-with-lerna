@@ -1,0 +1,11 @@
+{
+  "name": "root",
+  "private": true,
+  "author": {
+    "name": "Dat Dinh",
+    "email": "datjackson1997666@gmail.com"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
