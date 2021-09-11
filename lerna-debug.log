@@ -1,0 +1,6 @@
+31 error Error: Command failed with exit code 128: git add -- packages/app/package.json packages/ui-components/package.json
+31 error fatal: Pathspec 'packages/ui-components/package.json' is in submodule 'packages/ui-components'
+31 error     at makeError (/Users/apple/.nvm/versions/node/v14.16.0/lib/node_modules/lerna/node_modules/execa/lib/error.js:60:11)
+31 error     at handlePromise (/Users/apple/.nvm/versions/node/v14.16.0/lib/node_modules/lerna/node_modules/execa/index.js:118:26)
+31 error     at processTicksAndRejections (internal/process/task_queues.js:93:5)
+31 error     at async Promise.all (index 0)
