@@ -3,6 +3,7 @@
   "version": "1.0.2-alpha.0",
   "description": "UI Component package, consists of reusable UI component (dump component)",
   "author": "datjackson1997666",
+  "private": true,
   "license": "MIT",
   "repository": "@monorepo-real-application/ui-components",
   "main": "dist/index.js",
@@ -56,5 +57,6 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "gitHead": "f0bb157aba848395be3d0f26793c21dda255dd54"
 }
