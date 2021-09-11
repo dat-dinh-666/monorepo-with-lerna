@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import { ExampleComponent } from 'ui-components/dist/bundle';
+import { ExampleComponent } from '@monorepo-real-application/ui-components';
 
 function App() {
   return (
